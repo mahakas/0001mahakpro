@@ -1,0 +1,11 @@
+{
+  "name": "@mahak/api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "MAHAK Application/API layer — Python FastAPI shell contract boundary (R01)",
+  "scripts": {
+    "dev": "uvicorn mahak_api.main:app --reload",
+    "test": "python -m pytest",
+    "py:compileall": "python -m compileall src tests"
+  }
+}

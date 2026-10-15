@@ -1,0 +1,1 @@
+{"version":3,"file":"shell-mode.d.ts","sourceRoot":"","sources":["../src/shell-mode.ts"],"names":[],"mappings":"AAAA;;;;;;;;;GASG;AAEH;;GAEG;AACH,MAAM,MAAM,SAAS,GAAG,QAAQ,GAAG,eAAe,CAAC;AAEnD;;;GAGG;AACH,eAAO,MAAM,iBAAiB,EAAE,SAAS,SAAS,EAAgC,CAAC;AAEnF;;;GAGG;AACH,eAAO,MAAM,kBAAkB,EAAE,SAAoB,CAAC;AAEtD;;GAEG;AACH,wBAAgB,WAAW,CAAC,KAAK,EAAE,OAAO,GAAG,KAAK,IAAI,SAAS,CAE9D"}
